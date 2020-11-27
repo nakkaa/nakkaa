@@ -6,13 +6,6 @@
 
 - ブログ: [https://7ka.org/](https://7ka.org/posts/)
 
-## 所持資格
-
-- Oracle Certified Java Programmer Silver SE 8 (2020年)
-- 情報処理安全確保支援士試験 (2019年)
-- 応用情報技術者試験 (2016年)
-- 基本情報技術者試験 (2014年)
-
 ## 作ったソフトウェア
 
 - [鳩bot](https://github.com/dev-hato/hato-bot) (2020年)
